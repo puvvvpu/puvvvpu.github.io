@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>pu</title>
+  <icon>http://yoursite.com/icon.png</icon>
+  <subtitle>不针对某一门编程语言，不针对某一方向技术，只是谈谈自己的想法，记录一下历程</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-11-20T13:59:22.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>GP</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的第一篇博客</title>
+    <link href="http://yoursite.com/helloworld.html"/>
+    <id>http://yoursite.com/helloworld.html</id>
+    <published>2018-11-20T13:59:22.000Z</published>
+    <updated>2018-11-20T13:59:22.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;这是我的第一篇博客&lt;/p&gt;
+
+        &lt;h2 id=&quot;这是二级标题&quot;&gt;
+          &lt;a href=&quot;#这是二级标题&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;这是二级标题&lt;/h2&gt;
+    
+        
+      
+    
+    </summary>
+    
+    
+      <category term="生活" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="生活" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+</feed>
