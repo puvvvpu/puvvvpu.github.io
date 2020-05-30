@@ -23,6 +23,13 @@
   </url>
   
   <url>
+    <loc>http://yoursite.com/live2d_models/live2d-widget-model-shizuku/assets/shizuku.physics.json</loc>
+    
+    <lastmod>2020-05-13T09:07:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/live2d_models/live2d-widget-model-shizuku/assets/shizuku.model.json</loc>
     
     <lastmod>2020-05-13T09:07:48.000Z</lastmod>
@@ -37,7 +44,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/live2d_models/live2d-widget-model-shizuku/assets/shizuku.physics.json</loc>
+    <loc>http://yoursite.com/live2d_models/live2d-widget-model-shizuku/assets/exp/f01.exp.json</loc>
+    
+    <lastmod>2020-05-13T09:07:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/live2d_models/live2d-widget-model-shizuku/assets/exp/f04.exp.json</loc>
     
     <lastmod>2020-05-13T09:07:48.000Z</lastmod>
     
@@ -52,20 +66,6 @@
   
   <url>
     <loc>http://yoursite.com/live2d_models/live2d-widget-model-shizuku/assets/exp/f02.exp.json</loc>
-    
-    <lastmod>2020-05-13T09:07:48.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/live2d_models/live2d-widget-model-shizuku/assets/exp/f04.exp.json</loc>
-    
-    <lastmod>2020-05-13T09:07:48.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/live2d_models/live2d-widget-model-shizuku/assets/exp/f01.exp.json</loc>
     
     <lastmod>2020-05-13T09:07:48.000Z</lastmod>
     
